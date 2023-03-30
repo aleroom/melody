@@ -141,3 +141,20 @@ body {
     padding: 16px 36px;
     cursor: pointer;
 }
+
+.footer {
+    background-color: #635854;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    padding: 10px 0;
+}
+.aboutUs {
+    color: rgb(252, 243, 243);
+    font-size: 20px;
+    text-decoration: dotted;
+}
+.footer_info {
+    color: #fff;
+    font-size: 16px;
+}
